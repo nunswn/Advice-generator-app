@@ -19,6 +19,7 @@ body {
 .container {
     text-align: center;
     max-width: 1440px;
+    width: 100%;
     background-color: hsl(217, 19%, 24%);
     padding: 1.25rem 1.25rem 3rem;
     border-radius: 1.25rem;
